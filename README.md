@@ -38,15 +38,15 @@ SignLanguageRecognition/
 git clone https://github.com/VinaySMVS/sign-language-detection.git
 cd sign-language-detection
 
-2. Install Requirements
+###2. Install Requirements
 pip install -r requirements.txt
 
-3. Run the Detection Script
+###3. Run the Detection Script
 python sign_language_detect.py
 
 Your webcam will start, and the recognized ASL letters will be displayed and spoken.
 
-4. Train the Model (Optional)
+###4. Train the Model (Optional)
 jupyter notebook data_preprocessing.ipynb
 
 Follow the steps in the notebook to preprocess data and train the model. The final model will be saved as asl_model.h5.
@@ -96,4 +96,4 @@ Gesture smoothing to reduce flickering predictions
 👤 Author
 Vinay SMVS
 🔗 GitHub
-📧 Email: vcpdeloli@example.com
+📧 Email: vcpdeloli@gmail.com
