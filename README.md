@@ -46,7 +46,7 @@ python sign_language_detect.py
 ---
 Your webcam will start, and the recognized ASL letters will be displayed and spoken.
 ---
-###4. Train the Model (Optional)
+### 4. Train the Model (Optional)
 jupyter notebook data_preprocessing.ipynb
 ---
 Follow the steps in the notebook to preprocess data and train the model. The final model will be saved as asl_model.h5.
