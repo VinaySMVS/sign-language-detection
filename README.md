@@ -35,7 +35,6 @@ SignLanguageRecognition/
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/VinaySMVS/sign-language-detection.git
 cd sign-language-detection
 
